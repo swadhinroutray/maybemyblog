@@ -1,13 +1,13 @@
 # Permalinks
-permalink:           pretty
+permalink: pretty
 
 # Setup
-title:               'Taunt Jekyll Theme'
-url:                 https://bradleytaunt.com
-tagline:             The personal theme of Bradley Taunt
-paginate:            1000
-paginate_path:       "/page:num/"
-baseurl:             ""
+title: "Swadhin Routray(he/him)"
+url: https://swadhinroutray.github.io
+tagline: Privacy Engineering - CMU Co'24 | Ex-Oracle | CS - MIT, Manipal Co'22
+paginate: 1000
+paginate_path: "/blog/page:num/"
+baseurl: ""
 
 # Includes
 include:
@@ -17,19 +17,19 @@ include:
 #
 # We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 # About/contact
 author:
-  name:              Bradley Taunt
-  url:               https://twitter.com/bradtaunt
-  email:             bradleytaunt@gmail.com
+  name: Swadhin Routray
+  url: https://twitter.com/routrayswadhin
+  email: firstname.lastname@gmail.com
 
 # Custom vars
-version:             1.0.0
+version: 1.0.0
 github:
-  repo:              https://github.com/bradleytaunt/taunt-jekyll
+  repo: https://github.com/swadhinroutray
 
 # Plugins
 plugins:
