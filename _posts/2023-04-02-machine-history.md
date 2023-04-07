@@ -5,7 +5,7 @@ description: A journal of my machine history
 summary: This post is just a history lesson about all the computers and laptops I've used over the years and my experience with them
 ---
 
-Though it may feel like nostalgia, this post is honeslty just an article I've been meaning to write for ages. I have loved and have been very fornutate to have had access to computers and what they can do since I was <i>maybe</i> 6 years old. I still remember putting in a Pokemon card into the floppy drive of the first ever desktop, hoping that a wild Pikachu would appear, and never hearing the end of it from my Dad haha.
+Though it may feel like nostalgia, this post is honeslty just an article I've been meaning to write for ages. I have loved and have been very fortunate to have had access to computers and what they can do since I was <i>maybe</i> 6 years old. I still remember putting in a Pokemon card into the floppy drive of the first ever desktop, hoping that a wild Pikachu would appear, and never hearing the end of it from my Dad haha.
 
 This is just a list of all the laptops and (who am I kidding, one) desktops, in the reverse order of purchase year, I have owned over the years.
 
