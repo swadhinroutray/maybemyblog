@@ -15,7 +15,7 @@ This isolated data collaboration environment is called a <b> Clean Room</b>.
 To give you a brief idea about what it means technologically, [Habu](https://habu.com/data-clean-room-software/), an industry leader in the data collaboration domain, explains their architecture in [Figure 1](#fig1).
 
 <figure id="fig1">
-<img src="./images/habu-clean-rooms.png" >
+<img src="https://cdn.statically.io/img/habu.com/wp-content/uploads/2023/06/Marketecture.webp?quality=100&f=auto" >
 
 <figcaption align=center><i>Fig 1. Habu Data Clean Room Architecture</i></figcaption>
 </figure>
