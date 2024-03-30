@@ -1,9 +1,0 @@
-tmp
-*.rdb
-.env
-.sass-cache
-Gemfile.lock
-coverage
-_drafts
-_site
-assets
