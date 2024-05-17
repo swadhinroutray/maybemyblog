@@ -141,6 +141,7 @@ For DP, we follow a set of steps to provide formal mathematical privacy guarante
 <img align=center src="https://raw.githubusercontent.com/swadhinroutray/swadhinroutray.github.io/master/_posts/_images/private-sql-flow.png" alt="Private SQL Algorithm" />
 
  <figcaption align=center><i>Fig 2. Private SQL algorithm flow</i></figcaption>
+</figure>
 
 And the best part about this is that we enforce privacy guarantees while maintaining flexibility for the end-users, and scaling with data size!
 
